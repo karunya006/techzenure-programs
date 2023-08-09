@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- internal styles-->
+    <style>
+      
+      body {
+        background-color: rgb(110, 20, 28);
+      }
+      h2 {
+        background-color: rgb(200, 212, 215);
+        color: rgb(52, 50, 50);
+        padding: 11px;
+        border-radius: 15px;
+        box-shadow: 0px 0px 20px black;
+      }
+
+    </style>
+    <title>HTML Paragraphs with Images</title>
+  </head>
+  <body>
+    <h2> Techzenure India Private Lmt?</h2>
+    <p>
+        Techzenure has a fast-paced work culture that values innovation,
+        Techzenure has a fast-paced work culture that values innovation, collaboration, 
+        and agility. Communication, learning, and work-life balance are prioritized.
+        We encourage our employees to work together, share ideas, and collaborate across
+        teams and departments.Our open and transparent communication channels facilitate
+         knowledge-sharing, brainstorming, and problem-solving environment.
+      
+    </p>
+
+    <h2>Career at Techzenure</h2>
+    <p>
+
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi architecto
+      cum eum officiis ducimus! Amet reiciendis veritatis ut aliquid veniam
+      numquam voluptas! Sunt nisi eius, necessitatibus veritatis ducimus
+      delectus assumenda dolor saepe at nobis quae natus modi dolore voluptatem
+      illum earum beatae iste dignissimos quidem possimus tempore iure.
+    </p>
+
+    <h2>Work Culture</h2>
+    <p>
+
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero animi quo
+      tenetur? Dolore veniam tempore eaque pariatur animi, placeat accusantium
+      exercitationem laudantium esse dolores aliquam reiciendis et error enim,
+      ab, blanditiis quia earum impedit neque omnis perspiciatis! Animi
+      consequatur minima et temporibus nulla suscipit ea, ex sed accusantium
+      perspiciatis odio quam, laborum provident eos rem dolorib.
+ 
+      sunt*<br />
+
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Blanditiis
+      praesentium velit sapiente iusto animi impedit maxime nisi dolores, hic,
+      earum molestiae officia itaque ea nihil illum provident, numquam
+      voluptatem. Laboriosam cumque sed qui voluptatem a, fugiat eius velit
+      distinctio magni aspernatur, in ab ea possimus! Eum dolorem vitae pariatur
+      aliquam tempora eaque enim iste officiis, itaque sint incidunt voluptates
+      ratione modi praesentium.
+    </p>
+    <!-- inline styles-->
+    <h1 style="text-align:center">Techzenure &nbsp; ; Technologies</h1>
+    <!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+      body {
+        margin-bottom: 500px;
+      }
+      
+      #logo {
+        width: 260px;
+        height: 165px;
+        border-width: 7px;
+        border-style: blue;
+        border-color: black;
+        padding: 5px;
+        box-shadow: 0 0 10px black;
+        border-radius: 10px;
+      }
+    </style>
+    <title>Images in Web Page</title>
+  </head>
+  <body>
+    <div>
+      <h2>Simple Images</h2>
+      <img src="images/logo.jpg" alt="" />
+
+    </div>
+
+    <div>
+      <h2>Image with width & height</h2>
+      <img
+        src="images/vlsi.jpg"
+        alt="VLSI Design"
+        width="200px"
+        height="250px"
+
+    </div>
+
+    <div>
+      <h2>Image with Border</h2>
+      <img src="images/workforce.jpg" alt="" border="5" />
+    </div>
+
+    <div>
+      <h2>Techzenure</h2>
+      <img
+        src="images/techzenure.jpg"
+        alt=""
+        wodth="200px"
+        height="200px"
+        style="border: 5px solid rgb(222, 230, 228); border-radius: 12px"
+      />
+    </div>
+
+    
+    <div>
+      <h2>Techzenure Logo</h2>
+      <img
+        src="images/logo.jpg"
+        alt=""
+        style="
+          width: 130px;
+          height: 130px;
+          border-radius: 40%;
+          box-shadow: 0 0 10px yellow;
+          display:block;
+          margin:auto;
+        "
+      />      
+    </div>
+    <h1>&copy; &reg;</h1>
+  </body>
+</html>
+
+  </body>
+</html>
